@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Idade_logica\Idade_logica\bin\Debug\Idade_logica.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Idade_logica\Idade_logica\bin\Debug\Idade_logica.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Idade_logica\Idade_logica\bin\Debug\Idade_logica.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Idade_logica\Idade_logica\obj\Debug\Idade_logica.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Idade_logica\Idade_logica\obj\Debug\Idade_logica.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Idade_logica\Idade_logica\obj\Debug\Idade_logica.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Idade_logica\Idade_logica\obj\Debug\Idade_logica.pdb
