@@ -1,0 +1,1 @@
+Na aula de Programação em C#, vou aprender os conceitos essenciais da linguagem, como variáveis, estruturas de controle e funções. Vou praticar criando programas simples, entender a orientação a objetos e explorar a manipulação de dados. Ao longo do curso, poderei desenvolver projetos e aplicar o que aprendi em desafios reais.
