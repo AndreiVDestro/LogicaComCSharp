@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrei.vdestro\\source\\repos\\LogicaComCSharpT16\\LogicaComCSharp\\Peixe_peso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F87645-42C7-4AD4-BF40-84779046FC97}|Peixe_peso\\Peixe_peso.csproj|c:\\users\\andrei.vdestro\\source\\repos\\logicacomcsharpt16\\logicacomcsharp\\peixe_peso\\peixe_peso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F87645-42C7-4AD4-BF40-84779046FC97}|Peixe_peso\\Peixe_peso.csproj|solutionrelative:peixe_peso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrei.vdestro\\source\\repos\\LogicaComCSharpT16\\LogicaComCSharp\\Peixe_peso\\Peixe_peso\\Program.cs",
+              "RelativeDocumentMoniker": "Peixe_peso\\Program.cs",
+              "ToolTip": "C:\\Users\\andrei.vdestro\\source\\repos\\LogicaComCSharpT16\\LogicaComCSharp\\Peixe_peso\\Peixe_peso\\Program.cs",
+              "RelativeToolTip": "Peixe_peso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:13:51.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

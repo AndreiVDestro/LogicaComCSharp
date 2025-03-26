@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Peixe_peso\Peixe_peso\bin\Debug\Peixe_peso.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Peixe_peso\Peixe_peso\bin\Debug\Peixe_peso.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Peixe_peso\Peixe_peso\bin\Debug\Peixe_peso.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Peixe_peso\Peixe_peso\obj\Debug\Peixe_peso.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Peixe_peso\Peixe_peso\obj\Debug\Peixe_peso.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Peixe_peso\Peixe_peso\obj\Debug\Peixe_peso.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Peixe_peso\Peixe_peso\obj\Debug\Peixe_peso.pdb
