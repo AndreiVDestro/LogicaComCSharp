@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrei.vdestro\\source\\repos\\LogicaComCSharpT16\\LogicaComCSharp\\NumeroSequancia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6D058D-C448-4CE9-9C26-41D889FB904B}|NumeroSequancia\\NumeroSequancia.csproj|c:\\users\\andrei.vdestro\\source\\repos\\logicacomcsharpt16\\logicacomcsharp\\numerosequancia\\numerosequancia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6D058D-C448-4CE9-9C26-41D889FB904B}|NumeroSequancia\\NumeroSequancia.csproj|solutionrelative:numerosequancia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrei.vdestro\\source\\repos\\LogicaComCSharpT16\\LogicaComCSharp\\NumeroSequancia\\NumeroSequancia\\Program.cs",
+              "RelativeDocumentMoniker": "NumeroSequancia\\Program.cs",
+              "ToolTip": "C:\\Users\\andrei.vdestro\\source\\repos\\LogicaComCSharpT16\\LogicaComCSharp\\NumeroSequancia\\NumeroSequancia\\Program.cs",
+              "RelativeToolTip": "NumeroSequancia\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:33:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba_para1\Bomba_para1\bin\Debug\Bomba_para1.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba_para1\Bomba_para1\bin\Debug\Bomba_para1.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba_para1\Bomba_para1\bin\Debug\Bomba_para1.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba_para1\Bomba_para1\obj\Debug\Bomba_para1.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba_para1\Bomba_para1\obj\Debug\Bomba_para1.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba_para1\Bomba_para1\obj\Debug\Bomba_para1.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba_para1\Bomba_para1\obj\Debug\Bomba_para1.pdb
