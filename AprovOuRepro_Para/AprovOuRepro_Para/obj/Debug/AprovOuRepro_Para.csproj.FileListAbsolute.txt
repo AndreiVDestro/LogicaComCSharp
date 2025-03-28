@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Para\AprovOuRepro_Para\bin\Debug\AprovOuRepro_Para.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Para\AprovOuRepro_Para\bin\Debug\AprovOuRepro_Para.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Para\AprovOuRepro_Para\bin\Debug\AprovOuRepro_Para.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Para\AprovOuRepro_Para\obj\Debug\AprovOuRepro_Para.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Para\AprovOuRepro_Para\obj\Debug\AprovOuRepro_Para.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Para\AprovOuRepro_Para\obj\Debug\AprovOuRepro_Para.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Para\AprovOuRepro_Para\obj\Debug\AprovOuRepro_Para.pdb
