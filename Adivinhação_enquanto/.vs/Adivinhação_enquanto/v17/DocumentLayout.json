@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andrei.vdestro\\source\\repos\\LogicaComCSharpT16\\LogicaComCSharp\\Adivinha\u00E7\u00E3o_enquanto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5698A5-BA8B-4DC9-88C0-771F0E11AA75}|Adivinha\u00E7\u00E3o_enquanto\\Adivinha\u00E7\u00E3o_enquanto.csproj|c:\\users\\andrei.vdestro\\source\\repos\\logicacomcsharpt16\\logicacomcsharp\\adivinha\u00E7\u00E3o_enquanto\\adivinha\u00E7\u00E3o_enquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5698A5-BA8B-4DC9-88C0-771F0E11AA75}|Adivinha\u00E7\u00E3o_enquanto\\Adivinha\u00E7\u00E3o_enquanto.csproj|solutionrelative:adivinha\u00E7\u00E3o_enquanto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrei.vdestro\\source\\repos\\LogicaComCSharpT16\\LogicaComCSharp\\Adivinha\u00E7\u00E3o_enquanto\\Adivinha\u00E7\u00E3o_enquanto\\Program.cs",
+              "RelativeDocumentMoniker": "Adivinha\u00E7\u00E3o_enquanto\\Program.cs",
+              "ToolTip": "C:\\Users\\andrei.vdestro\\source\\repos\\LogicaComCSharpT16\\LogicaComCSharp\\Adivinha\u00E7\u00E3o_enquanto\\Adivinha\u00E7\u00E3o_enquanto\\Program.cs",
+              "RelativeToolTip": "Adivinha\u00E7\u00E3o_enquanto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:30:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

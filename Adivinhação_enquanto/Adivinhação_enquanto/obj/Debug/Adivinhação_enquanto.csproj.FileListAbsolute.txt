@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhação_enquanto\Adivinhação_enquanto\bin\Debug\Adivinhação_enquanto.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhação_enquanto\Adivinhação_enquanto\bin\Debug\Adivinhação_enquanto.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhação_enquanto\Adivinhação_enquanto\bin\Debug\Adivinhação_enquanto.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhação_enquanto\Adivinhação_enquanto\obj\Debug\Adivinhação_enquanto.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhação_enquanto\Adivinhação_enquanto\obj\Debug\Adivinhação_enquanto.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhação_enquanto\Adivinhação_enquanto\obj\Debug\Adivinhação_enquanto.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhação_enquanto\Adivinhação_enquanto\obj\Debug\Adivinhação_enquanto.pdb
