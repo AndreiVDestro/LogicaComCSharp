@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Enquanto\AprovOuRepro_Enquanto\bin\Debug\AprovOuRepro_Enquanto.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Enquanto\AprovOuRepro_Enquanto\bin\Debug\AprovOuRepro_Enquanto.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Enquanto\AprovOuRepro_Enquanto\bin\Debug\AprovOuRepro_Enquanto.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Enquanto\AprovOuRepro_Enquanto\obj\Debug\AprovOuRepro_Enquanto.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Enquanto\AprovOuRepro_Enquanto\obj\Debug\AprovOuRepro_Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Enquanto\AprovOuRepro_Enquanto\obj\Debug\AprovOuRepro_Enquanto.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\AprovOuRepro_Enquanto\AprovOuRepro_Enquanto\obj\Debug\AprovOuRepro_Enquanto.pdb
