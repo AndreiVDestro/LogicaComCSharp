@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba Enquanto\Bomba Enquanto\bin\Debug\Bomba Enquanto.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba Enquanto\Bomba Enquanto\bin\Debug\Bomba Enquanto.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba Enquanto\Bomba Enquanto\bin\Debug\Bomba Enquanto.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba Enquanto\Bomba Enquanto\obj\Debug\Bomba Enquanto.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba Enquanto\Bomba Enquanto\obj\Debug\Bomba Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba Enquanto\Bomba Enquanto\obj\Debug\Bomba Enquanto.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Bomba Enquanto\Bomba Enquanto\obj\Debug\Bomba Enquanto.pdb
