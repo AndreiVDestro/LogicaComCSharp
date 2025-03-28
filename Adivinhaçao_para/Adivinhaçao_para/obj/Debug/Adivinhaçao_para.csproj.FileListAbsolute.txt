@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhaçao_para\Adivinhaçao_para\bin\Debug\Adivinhaçao_para.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhaçao_para\Adivinhaçao_para\bin\Debug\Adivinhaçao_para.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhaçao_para\Adivinhaçao_para\bin\Debug\Adivinhaçao_para.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhaçao_para\Adivinhaçao_para\obj\Debug\Adivinhaçao_para.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhaçao_para\Adivinhaçao_para\obj\Debug\Adivinhaçao_para.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhaçao_para\Adivinhaçao_para\obj\Debug\Adivinhaçao_para.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Adivinhaçao_para\Adivinhaçao_para\obj\Debug\Adivinhaçao_para.pdb
