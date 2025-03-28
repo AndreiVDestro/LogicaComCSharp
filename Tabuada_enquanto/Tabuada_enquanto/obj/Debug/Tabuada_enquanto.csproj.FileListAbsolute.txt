@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada_enquanto\Tabuada_enquanto\bin\Debug\Tabuada_enquanto.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada_enquanto\Tabuada_enquanto\bin\Debug\Tabuada_enquanto.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada_enquanto\Tabuada_enquanto\bin\Debug\Tabuada_enquanto.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada_enquanto\Tabuada_enquanto\obj\Debug\Tabuada_enquanto.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada_enquanto\Tabuada_enquanto\obj\Debug\Tabuada_enquanto.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada_enquanto\Tabuada_enquanto\obj\Debug\Tabuada_enquanto.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada_enquanto\Tabuada_enquanto\obj\Debug\Tabuada_enquanto.pdb
