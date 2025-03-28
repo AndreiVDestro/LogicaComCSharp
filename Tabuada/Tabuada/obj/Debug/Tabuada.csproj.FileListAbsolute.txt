@@ -1,0 +1,7 @@
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\andrei.vdestro\source\repos\LogicaComCSharpT16\LogicaComCSharp\Tabuada\Tabuada\obj\Debug\Tabuada.pdb
